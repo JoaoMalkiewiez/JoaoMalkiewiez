@@ -29,7 +29,6 @@ I work with **ERP production support**, investigating integrations, HTTP request
 | --- | --- | --- |
 | [Radar Fiscal](https://github.com/JoaoMalkiewiez/Radar-fiscal) | Fiscal information lookup and SEFAZ service monitoring web platform | Node.js · Docker · Render |
 | [Pikachu Chat](https://github.com/JoaoMalkiewiez/pikachu-chat) | Real-time chat application project | Node.js · Supabase · PostgreSQL |
-| [MyrpTools](https://github.com/JoaoMalkiewiez/MyrpTools) | Productivity tooling repository for ERP support workflows | JavaScript · Chrome Extensions |
 
 > Project documentation and public demos are being improved. Features and deployment status may differ by repository.
 
