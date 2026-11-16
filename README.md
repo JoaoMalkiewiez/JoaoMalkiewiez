@@ -15,7 +15,7 @@ Building practical software, automations and integrations. Based in Blumenau, Br
 
 I'm a Computer Science student at **FURB**, focused on backend engineering, reliable APIs and developer tooling.
 
-I work with **ERP production support**, investigating integrations, HTTP requests, JSON/XML payloads, logs and incidents across retail and fiscal workflows. I bring that problem-solving experience into my own software projects.
+My projects focus on **backend services, APIs, automation and practical developer tools**, with an emphasis on maintainable code, clear documentation and reliable integrations.
 
 - 🔧 **Backend:** Node.js, TypeScript, JavaScript, Python, REST APIs
 - 🗃️ **Data:** PostgreSQL, SQL, Supabase
